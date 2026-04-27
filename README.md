@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Oussama Boutira</h1>
+  <h1>Hi there, I'm <strong>Oussama Boutira</strong></h1>
   <h3>Full-Stack Developer | Building End-to-End Digital Solutions</h3>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Workflow+Automation+Enthusiast;React+%7C+Node.js+%7C+Supabase" alt="Typing SVG" />
@@ -84,5 +84,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=fff&size=28&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+projects+;Let%27s+build+something+amazing+together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=fff&size=28&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+projects+;Let%27s+build+something+amazing+together!"/>
 </p>
