@@ -72,13 +72,8 @@
 <h2>GitHub Activity</h2>
 
 <div align="center">
-  <a href="https://github.com/oussama-boutira" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=oussama-boutira&show_icons=false&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=3ECF8E" alt="Oussama's GitHub Stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/oussama-boutira" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-boutira&layout=compact&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=3ECF8E" alt="Top Languages" />
-  </a>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=oussama-boutira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=react&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=oussama-boutira&locale=en&hide_title=false&layout=compact&card_width=368&langs_count=6&theme=react&hide_border=false&hide=html,blade,css" height="150" alt="languages graph" />
 </div>
 
 ---
